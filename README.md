@@ -12,9 +12,9 @@
 5. 報告成果。  
 
 ## 數據集  
-train/：訓練集影像資料夾
-test/：測試集影像資料夾
-classnames.txt：類別名稱列表
+train/：訓練集影像資料夾  
+test/：測試集影像資料夾  
+classnames.txt：類別名稱列表  
 
 ## 模型資訊  
 模型：EfficientNet_B1  
