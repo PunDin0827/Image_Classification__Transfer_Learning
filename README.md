@@ -16,7 +16,7 @@ train/：訓練集影像資料夾
 test/：測試集影像資料夾  
 classnames.txt：類別名稱列表  
 
-## 模型資訊  
+## 模型架構  
 模型：EfficientNet_B1  
 輸入影像尺寸：64x64  
 輸出類別數量：18  
